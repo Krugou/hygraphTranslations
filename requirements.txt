@@ -1,0 +1,4 @@
+# requirements.txt for Hygraph Translation Uploader
+python-dotenv
+PyQt5
+requests
